@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="24" viewBox="0 0 96 24" fill="none">
+  <circle cx="10" cy="12" r="6" fill="#0f172a" opacity="0.85"/>
+  <circle cx="10" cy="12" r="2.5" fill="#F8FAFC"/>
+  <text x="22" y="17" fill="#0f172a" font-family="system-ui,sans-serif" font-size="15" font-weight="700">Grafana</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0E131B"/>
+  <rect x="0" y="0" width="800" height="36" fill="#111827"/>
+  <text x="80" y="22" fill="#64748b" font-family="ui-monospace,monospace" font-size="11">Cost · last 7 days · provider-reported</text>
+  <rect x="40" y="56" width="220" height="88" rx="10" fill="#111827" stroke="rgba(255,255,255,0.08)"/>
+  <text x="56" y="84" fill="#64748b" font-family="ui-monospace,monospace" font-size="9">Total spend</text>
+  <text x="56" y="118" fill="#f1f5f9" font-family="system-ui,sans-serif" font-size="26" font-weight="600">$12,480</text>
+  <rect x="280" y="56" width="220" height="88" rx="10" fill="#111827" stroke="rgba(255,255,255,0.08)"/>
+  <text x="296" y="84" fill="#64748b" font-family="ui-monospace,monospace" font-size="9">Cache savings</text>
+  <text x="296" y="118" fill="#10B981" font-family="system-ui,sans-serif" font-size="26" font-weight="600">$3,210</text>
+  <rect x="520" y="56" width="240" height="88" rx="10" fill="#111827" stroke="rgba(255,255,255,0.08)"/>
+  <text x="536" y="84" fill="#64748b" font-family="ui-monospace,monospace" font-size="9">Top session</text>
+  <text x="536" y="118" fill="#e2e8f0" font-family="ui-monospace,monospace" font-size="14">refactor-auth · $842</text>
+  <rect x="40" y="164" width="720" height="296" rx="12" fill="#111827" stroke="rgba(255,255,255,0.08)"/>
+  <path d="M72 400 L160 340 L248 360 L336 280 L424 300 L512 240 L600 260 L688 200" fill="none" stroke="#5DA8FF" stroke-width="2.5"/>
+  <path d="M72 400 L160 370 L248 380 L336 320 L424 340 L512 290 L600 310 L688 270" fill="none" stroke="#10B981" stroke-width="1.5" opacity="0.7"/>
+  <text x="56" y="196" fill="#64748b" font-family="ui-monospace,monospace" font-size="9">Tokens by team</text>
+</svg>

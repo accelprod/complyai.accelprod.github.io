@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Policy YAML placeholder">
+  <rect width="800" height="500" fill="#111827"/>
+  <rect x="40" y="40" width="720" height="420" rx="12" fill="#0E131B" stroke="rgba(255,255,255,0.08)"/>
+  <text x="80" y="120" fill="#5DA8FF" font-family="ui-monospace,monospace" font-size="14">rules:</text>
+  <text x="80" y="150" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">  - action: shell.exec</text>
+  <text x="80" y="180" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">    effect: deny</text>
+  <text x="400" y="320" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="14">Policy YAML</text>
+</svg>

@@ -1,0 +1,16 @@
+export const SITE_ROUTES = [
+  '/',
+  '/platform',
+  '/runtime-governance',
+  '/pricing',
+  '/demo',
+  '/about',
+  '/solutions',
+  '/compliance',
+  '/compliance/soc2',
+  '/compliance/iso-27001',
+  '/compliance/nist-ai-rmf',
+  '/compliance/eu-ai-act',
+  '/privacy',
+  '/terms',
+] as const;

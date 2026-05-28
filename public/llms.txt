@@ -1,0 +1,31 @@
+# ComplyAI
+
+> The control plane for autonomous software development — runtime governance at the action boundary across IDE, CLI, cloud, MCP, and self-hosted agents.
+
+## Product
+
+ComplyAI sits between AI agents and the actions they take (shell, file read, MCP calls). It enforces allow, deny, or ask in real time at the runtime boundary and produces an identity-attributed audit trail exportable via OpenTelemetry.
+
+Four buyer pillars: Govern (Guard) · Observe (Insight) · Audit (Ledger) · Account (Meter).
+Seven modules across three phases: Scanner, Sandbox, Identity (onboard) · Guard, Insight (govern) · Ledger, Meter (account).
+
+## Editions
+
+- ComplyAI Core — free, MIT-licensed, self-hosted (Guard, Ledger, Meter + adapters): https://github.com/complyai/complyai
+- Enterprise platform — hosted control plane, SSO, Scanner, Sandbox, Identity, Insight, compliance packs — contact sales
+
+## Key pages
+
+- Home: https://complai.dev/
+- Platform: https://complai.dev/platform
+- Runtime Governance: https://complai.dev/runtime-governance
+- Observability: https://complai.dev/observability
+- Pricing: https://complai.dev/pricing
+- Demo: https://complai.dev/demo
+- Trust: https://complai.dev/trust
+- Documentation: https://complai.dev/docs
+
+## Contact
+
+- General: hi@complai.dev
+- Security: security@complai.dev

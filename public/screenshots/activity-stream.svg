@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0E131B"/><stop offset="100%" stop-color="#070B11"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="0" y="0" width="800" height="36" fill="#111827"/>
+  <circle cx="20" cy="18" r="5" fill="#EF4444"/><circle cx="38" cy="18" r="5" fill="#F59E0B"/><circle cx="56" cy="18" r="5" fill="#10B981"/>
+  <text x="80" y="22" fill="#64748b" font-family="ui-monospace,monospace" font-size="11">complyai � Live activity</text>
+  <rect x="0" y="36" width="168" height="464" fill="#0a0f16"/>
+  <text x="20" y="68" fill="#5DA8FF" font-family="ui-monospace,monospace" font-size="10" letter-spacing="0.08em">STREAM</text>
+  <rect x="20" y="80" width="128" height="28" rx="6" fill="#111827" stroke="rgba(255,255,255,0.08)"/>
+  <text x="32" y="98" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="10">All sessions</text>
+  <rect x="168" y="36" width="632" height="464" fill="#0E131B"/>
+  <rect x="188" y="56" width="592" height="40" rx="8" fill="#111827" stroke="rgba(255,255,255,0.06)"/>
+  <text x="204" y="80" fill="#64748b" font-family="ui-monospace,monospace" font-size="10">Filter � team=platform � last 15m</text>
+  <rect x="188" y="108" width="592" height="52" rx="8" fill="#111827" stroke="rgba(16,185,129,0.25)"/>
+  <text x="204" y="130" fill="#10B981" font-family="ui-monospace,monospace" font-size="11" font-weight="600">ALLOW</text>
+  <text x="260" y="130" fill="#e2e8f0" font-family="ui-monospace,monospace" font-size="11">Read src/auth.ts</text>
+  <text x="204" y="148" fill="#64748b" font-family="ui-monospace,monospace" font-size="10">alex@acme � cursor � 42ms</text>
+  <rect x="188" y="168" width="592" height="52" rx="8" fill="#111827" stroke="rgba(239,68,68,0.35)"/>
+  <text x="204" y="190" fill="#EF4444" font-family="ui-monospace,monospace" font-size="11" font-weight="600">DENY</text>
+  <text x="260" y="190" fill="#e2e8f0" font-family="ui-monospace,monospace" font-size="11">DROP DATABASE prod</text>
+  <text x="204" y="208" fill="#64748b" font-family="ui-monospace,monospace" font-size="10">sam@acme � claude-code � 38ms</text>
+  <rect x="188" y="228" width="592" height="52" rx="8" fill="#111827" stroke="rgba(245,158,11,0.3)"/>
+  <text x="204" y="250" fill="#F59E0B" font-family="ui-monospace,monospace" font-size="11" font-weight="600">ASK</text>
+  <text x="260" y="250" fill="#e2e8f0" font-family="ui-monospace,monospace" font-size="11">github.create_repo</text>
+  <text x="204" y="268" fill="#64748b" font-family="ui-monospace,monospace" font-size="10">pending approval � 91ms</text>
+</svg>
